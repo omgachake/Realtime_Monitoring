@@ -1,0 +1,16 @@
+[tag1]
+offset=0
+CMD=T 200 NO
+Parser==(?P<data>.*)
+[tag2]
+offset=2
+CMD=T 200 NO
+Parser==(?P<data>.*)
+[tag3]
+offset=4
+CMD=T 200 NO
+Parser==(?P<data>.*)
+[tag4]
+offset=6
+CMD=T 200 NO
+Parser==(?P<data>.*)
